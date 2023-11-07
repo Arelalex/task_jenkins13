@@ -33,7 +33,6 @@ public class RegistrationTest {
                 "enableVideo", true
         ));
         Configuration.browserCapabilities = capabilities;
-
     }
 
     @AfterEach
